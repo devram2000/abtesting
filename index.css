@@ -26,7 +26,7 @@ body {
 
 @media screen and (min-width: 800px) {
     body {
-         margin: 200px;
+         margin: 300px;
          margin-top: 20px;
     }
 
@@ -92,9 +92,9 @@ h5 {
 }
 
 .webpage_a {
-    border-bottom: dotted #808080 10px;
+    border-bottom: dashed #b2b2b2 10px;
 }
 
 .webpage_b {
-    border-top: dotted #808080 10px;
+    border-top: dashed #b2b2b2 10px;
 }
